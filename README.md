@@ -1,5 +1,7 @@
 # CSE 017 - Quiz 4
 
+Due: Monday 7/27 by end of day.
+
 Answer the following questions, min. 1 commit per question:
 
 ## Question 1
